@@ -3,6 +3,9 @@ _Nama : Arofah Raudlatul Hasanah_
 _Kelas : TI.24.A2_  
 _NIM : 312410231_  
 
+**live demo:** [(https://arofahrh.rf.gd/)]  
+**Akun Demo:** Admin : (Admin/admin123,) User : (arofah_user/user123)
+
 ##  BookBorrow - Sistem Manajemen Perpustakaan  
 Aplikasi sederhana yang saya buat yaitu *BookBorrow*, adalah aplikasi berbasis web yang saya buat sebagai alat manajemen untuk pustakawan (Admin) agar mereka dapat dengan mudah mengelola koleksi dan mempercepat proses peminjaman untuk anggota (Pengguna). Fokus utama aplikasi ini adalah kemudahan penggunaan dengan penekanan pada desain dan fungsionalitas. Tema yang saya pilih yaitu  dark wood.
 
