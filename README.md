@@ -13,6 +13,8 @@ Aplikasi sederhana yang saya buat yaitu *BookBorrow*, adalah aplikasi berbasis w
 | **Admin** | Admin | admin123 |
 | **User** | arofah_user | user123 |
 
+### link YouTube : https://youtu.be/Ky4uxJUOq-s
+
 ## Screenshoot Aplikasi
 ### 1. Halaman Login  
 <img width="1906" height="910" alt="image" src="https://github.com/user-attachments/assets/24f61927-68de-48c8-ad7d-4ab24e2b6cfe" />
